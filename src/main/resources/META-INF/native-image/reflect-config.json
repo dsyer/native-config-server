@@ -1,11 +1,5 @@
 [
 {
-  "name":"boolean[]"
-},
-{
-  "name":"byte[]"
-},
-{
   "name":"ch.qos.logback.classic.LoggerContext"
 },
 {
@@ -44,19 +38,6 @@
   "allDeclaredMethods":true,
   "allDeclaredConstructors":true,
   "methods":[{"name":"main","parameterTypes":["java.lang.String[]"] }]
-},
-{
-  "name":"com.example.ConfigServerApplication$$EnhancerBySpringCGLIB$$79dd7053",
-  "allDeclaredFields":true,
-  "allDeclaredMethods":true,
-  "allDeclaredConstructors":true
-},
-{
-  "name":"com.example.ConfigServerApplication$$EnhancerBySpringCGLIB$$bd11cd11",
-  "allDeclaredFields":true,
-  "allDeclaredMethods":true,
-  "allDeclaredConstructors":true,
-  "fields":[{"name":"CGLIB$FACTORY_DATA"}]
 },
 {
   "name":"com.fasterxml.jackson.core.JsonGenerator"
@@ -5209,8 +5190,5 @@
 },
 {
   "name":"org.yaml.snakeyaml.Yaml"
-},
-{
-  "name":"short[]"
 }
 ]
