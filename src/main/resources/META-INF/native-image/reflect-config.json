@@ -1719,16 +1719,6 @@
   "allDeclaredConstructors":true
 },
 {
-  "name":"org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration$$Lambda$686/0x00000008404dfc40",
-  "allDeclaredFields":true,
-  "allDeclaredMethods":true
-},
-{
-  "name":"org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration$$Lambda$686/0x00000008404e7c40",
-  "allDeclaredFields":true,
-  "allDeclaredMethods":true
-},
-{
   "name":"org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextFactory",
   "allDeclaredFields":true,
   "allDeclaredMethods":true
@@ -2955,16 +2945,6 @@
   "allPublicMethods":true
 },
 {
-  "name":"org.springframework.boot.validation.beanvalidation.MethodValidationExcludeFilter$$Lambda$357/0x000000084034c440",
-  "allDeclaredFields":true,
-  "allDeclaredMethods":true
-},
-{
-  "name":"org.springframework.boot.validation.beanvalidation.MethodValidationExcludeFilter$$Lambda$360/0x000000084034c040",
-  "allDeclaredFields":true,
-  "allDeclaredMethods":true
-},
-{
   "name":"org.springframework.boot.web.client.RestTemplateBuilder"
 },
 {
@@ -3208,16 +3188,8 @@
   "allDeclaredMethods":true
 },
 {
-  "name":"org.springframework.cglib.core.MethodWrapper$MethodWrapperKey$$KeyFactoryByCGLIB$$552be97a",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
-},
-{
   "name":"org.springframework.cglib.proxy.Enhancer$EnhancerKey",
   "allDeclaredMethods":true
-},
-{
-  "name":"org.springframework.cglib.proxy.Enhancer$EnhancerKey$$KeyFactoryByCGLIB$$4ce19e8f",
-  "methods":[{"name":"<init>","parameterTypes":[] }]
 },
 {
   "name":"org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration",
