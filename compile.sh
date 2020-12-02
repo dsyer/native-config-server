@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ARTIFACT=config-server
-TARGET=${1:-plain}
+TARGET=${1:-config-server}
 MAINCLASS=${2:-com.example.ConfigServerApplication}
 VERSION=0.0.1-SNAPSHOT
 
