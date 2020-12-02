@@ -15,7 +15,7 @@
 	<name>config-server</name>
 
 	<properties>
-		<java.version>8</java.version>
+		<java.version>11</java.version>
 		<spring.native.mode>reflection</spring.native.mode>
 		<start-class>com.example.ConfigServerApplication</start-class>
 	</properties>
